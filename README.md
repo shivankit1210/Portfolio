@@ -1,76 +1,97 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Portfolio Website
 
-<br/>
+A personal portfolio website showcasing my projects, skills, and professional journey. Built with modern web technologies to reflect my expertise as a front-end developer and my passion for clean and user-friendly design.
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+---
 
 ## Features
 
-**📖 Multi-Page Layout**
+- **Projects Showcase**: Detailed descriptions of my key projects, including technologies used and features implemented.
+- **About Me**: An overview of my professional background, education, and skills.
+- **Resume Download**: Option to download my updated resume directly from the site.
+- **Contact Form**: Easy-to-use contact form for visitors to get in touch with me.
+- **Responsive Design**: Optimized for viewing on desktops, tablets, and mobile devices.
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## Tech Stack
 
-## Getting Started
+- **Frontend**: ReactJS, Tailwind CSS
+- **Backend**: Node.js (for form submission, if applicable)
+- **Hosting**: Deployed on platforms like Vercel, Netlify, or GitHub Pages
+- **Tools**: VS Code, Git, Figma (for design prototypes)
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+---
 
-## 🛠 Installation and Setup Instructions
+## Sections
 
-1. Installation: `npm install`
+1. **Home**
+   - Introductory banner with a brief overview.
+   - Links to social profiles and GitHub.
 
-2. In the project directory, you can run: `npm start`
+2. **About Me**
+   - Details about my education, experience, and hobbies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+3. **Projects**
+   - **Chat Application**: Real-time chat app using ReactJS and Firebase.
+   - **Online Restaurant Platform**: Zomato-inspired platform for browsing restaurants and placing orders.
+   - **Online Resort Booking Platform**: Freelance project for seamless resort booking.
+   - **Event Management Frontend**: User-friendly UI for event browsing and registration.
+   - **Map Navigator**: Route mapping app using ReactJS and Leaflet.
 
-## Usage Instructions
+4. **Skills**
+   - Frontend: HTML, CSS, JavaScript, ReactJS, Tailwind CSS.
+   - Backend: Node.js, MongoDB.
+   - Tools: GitHub, Firebase, VS Code.
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+5. **Contact**
+   - Contact form for inquiries.
+   - Email and social links.
 
-### Show your support
+---
 
-Give a ⭐ if you like this website!
+## Installation and Setup
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the development server:
+   ```bash
+   npm start
+   ```
+5. Open the site in your browser:
+   ```
+   http://localhost:3000
+   ```
+
+---
+
+## Deployment
+
+1. Build the project:
+   ```bash
+   npm run build
+   ```
+2. Deploy to your preferred hosting platform (e.g., Vercel, Netlify, GitHub Pages).
+
+---
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## Acknowledgments
+
+- Inspired by various developer portfolios.
+- Thanks to open-source tools and libraries that made this project possible.
