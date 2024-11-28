@@ -5,7 +5,7 @@ A personal portfolio website showcasing my projects, skills, and professional jo
 ---
 
 # Preview
-![Project Preview](https://raw.githubusercontent.com/your-username/your-repository/main/project-preview.png)
+![Project Preview](https://github.com/shivankit1210/Portfolio/blob/main/src/Assets/Projects/my%20Portfolio.png)
 
 
 ## Features
