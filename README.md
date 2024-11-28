@@ -4,6 +4,10 @@ A personal portfolio website showcasing my projects, skills, and professional jo
 
 ---
 
+# Preview
+![Project Preview](https://raw.githubusercontent.com/your-username/your-repository/main/project-preview.png)
+
+
 ## Features
 
 - **Projects Showcase**: Detailed descriptions of my key projects, including technologies used and features implemented.
