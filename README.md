@@ -9,17 +9,15 @@ A personal portfolio website showcasing my projects, skills, and professional jo
 - **Projects Showcase**: Detailed descriptions of my key projects, including technologies used and features implemented.
 - **About Me**: An overview of my professional background, education, and skills.
 - **Resume Download**: Option to download my updated resume directly from the site.
-- **Contact Form**: Easy-to-use contact form for visitors to get in touch with me.
 - **Responsive Design**: Optimized for viewing on desktops, tablets, and mobile devices.
 
 ---
 
 ## Tech Stack
 
-- **Frontend**: ReactJS, Tailwind CSS
-- **Backend**: Node.js (for form submission, if applicable)
-- **Hosting**: Deployed on platforms like Vercel, Netlify, or GitHub Pages
-- **Tools**: VS Code, Git, Figma (for design prototypes)
+- **Frontend**: ReactJS, CSS3
+- **Hosting**: Deployed on platforms Vercel
+- **Tools**: VS Code, Git
 
 ---
 
@@ -44,9 +42,7 @@ A personal portfolio website showcasing my projects, skills, and professional jo
    - Backend: Node.js, MongoDB.
    - Tools: GitHub, Firebase, VS Code.
 
-5. **Contact**
-   - Contact form for inquiries.
-   - Email and social links.
+
 
 ---
 
@@ -82,12 +78,6 @@ A personal portfolio website showcasing my projects, skills, and professional jo
    npm run build
    ```
 2. Deploy to your preferred hosting platform (e.g., Vercel, Netlify, GitHub Pages).
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
