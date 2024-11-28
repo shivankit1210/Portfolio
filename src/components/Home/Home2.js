@@ -19,21 +19,30 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I fell in love with problem-solving through code, and I’ve definitely picked up a thing or two along the way. 🤓
               <br />
-              <br />I am fluent in classics like
+              <br />
+              I’m fluent in modern tools like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> JavaScript, React, and Next.js, </b>
               </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+              with a solid foundation in
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple"> C++. </b>
+              </i>
+
+              <br />
+              <br />
+              My areas of interest include building scalable &nbsp;
+              <i>
+                <b className="purple">web applications </b> and
+                exploring{" "}
                 <b className="purple">
-                  Blockchain.
+                backend technologies,{" "}
+                </b>
+                and diving into the world of {" "}
+                <b className="purple">
+                APIs and microservices.
                 </b>
               </i>
               <br />
@@ -48,8 +57,13 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js</b>
               </i>
+              {" "}
+              and learning new tools like {" "}
+              <b className="purple">
+              Firebase.
+              </b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +81,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/shivankit1210"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +91,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +101,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/shivankit-agarwal/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +111,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/_SHIV_ANKIT_"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
